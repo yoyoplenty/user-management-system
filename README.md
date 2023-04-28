@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Technify Incubator User Management System. A simple user system that allow users sign up with diffrent permissions and role with the ability to uplod profile images and
+A User Management System. A simple user system that allow users sign up with diffrent permissions and role with the ability to uplod profile images and
 edit profiles
 
 ### Project Support Features
